@@ -1,2 +1,46 @@
-.body background-image:url("IMAGES/fantasy-g5a5749966_1920.jpg" )
-background-size:cover; 
+h1,h2
+{
+ color: #D43725;   
+}
+
+.cadre1 
+{ 
+border: 5px groove #D43725 ;
+background-color: #ADC5CF;
+padding:15px;
+margin: auto;
+color: black;
+border-width: fit-content;
+text-align: left;
+opacity: 0.8;
+
+}
+
+div
+{ 
+border: 5px groove #D43725 ;
+background-color: #ADC5CF;
+padding:8px;
+margin: auto;
+color: black;
+opacity: 0.8;
+
+}
+
+
+body
+{
+background-image: url("images/fantasy-g5a5749966_1920.jpg");
+background-size:cover;
+background-repeat: no-repeat;
+background-color: white;
+
+    
+} 
+
+p
+{
+font-size: 1em;
+color: black; 
+font-family: Arial, Helvetica, sans-serif;
+}
